@@ -20,8 +20,13 @@ Default level for logging is set to WARNING.That means it will capture everythin
 above.(WARNING,ERROR,CRITICAL, it will ignore INFO and DEBUG statements)
 
 If you dont specify specific LOGGER, u will be working with ROOT logger.Best pratical advice is to
-use separate loggers that can be formatted differently.
+use separate loggers that can be formatted differently.If u import a module in file.py where there were already specified root logger, the root logger from that module will override a logger in file.py.
+So best scenario is to write separate loggers.
 
+logger = logging.getLogger(__name__) # logger name is equal to module's name, best pratice
+Formatting is added to file handler, not to a logger.
+File handler is added to logger.
+Anytime u log ERROR, include Traceback.
 
 
 LOGS CHARACTHERISTICS:
