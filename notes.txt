@@ -1,0 +1,15 @@
+LOGS CHARACTHERISTICS:
+
+1.Descriptive
+2.Contextual
+3.Reactive
+
+1.They give u a piece of information
+2.They give an overview of state of things at the moment
+3.They allow you to take actions only after something happend
+
+If you dont respect the nature of the log, u will produce only noise.
+Logs are private intel from your software to keep you aware and react to situtations.Any log that cant give u that ability is pure noise.
+
+
+
