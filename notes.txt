@@ -1,3 +1,29 @@
+5 STANDARD LOGGING LEVELS:
+
+1.DEBUG
+Detailed information, typically of interest only when diagnosing problems.
+
+2.INFO
+Confirmation that things are working correctly(as expected).
+
+3.WARNING
+An indication that something unexpected happend, or inidcative of some problem in the near future.
+The software is still working as expected.
+
+4.ERROR
+Due to a more serios problem, software has not been able to perform some function.
+
+5.CRITICAL
+A serious error, indicating that the program itself may be unable to continue running.
+
+Default level for logging is set to WARNING.That means it will capture everything that is WARNING or
+above.(WARNING,ERROR,CRITICAL, it will ignore INFO and DEBUG statements)
+
+If you dont specify specific LOGGER, u will be working with ROOT logger.Best pratical advice is to
+use separate loggers that can be formatted differently.
+
+
+
 LOGS CHARACTHERISTICS:
 
 1.Descriptive

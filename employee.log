@@ -1,18 +1,21 @@
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
-INFO:tmp_class:Created employee: John Smith - John.Smith@gmail.com
-INFO:tmp_class:Created employee: Pavle Ristovic - Pavle.Ristovic@gmail.com
-INFO:tmp_class:Created employee: Jane Doe - Jane.Doe@gmail.com
+2022-06-05 17:33:47,465::employee:INFO:Created Employee: John Great
+2022-06-05 17:33:47,465::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:33:47,466::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:34:59,594::employee:INFO:Created Employee: John Great
+2022-06-05 17:34:59,594::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:34:59,594::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:35:10,248::employee:INFO:Created Employee: John Great
+2022-06-05 17:35:10,249::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:35:10,249::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:35:28,554::employee:INFO:Created Employee: John Great
+2022-06-05 17:35:28,554::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:35:28,554::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:36:21,641::employee:INFO:Created Employee: John Great
+2022-06-05 17:36:21,641::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:36:21,641::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:37:50,883::employee:INFO:Created Employee: John Great
+2022-06-05 17:37:50,883::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:37:50,883::employee:INFO:Created Employee: Joe Doe
+2022-06-05 17:38:37,807::employee:INFO:Created Employee: John Great
+2022-06-05 17:38:37,807::employee:INFO:Created Employee: Pavle Takeshi
+2022-06-05 17:38:37,807::employee:INFO:Created Employee: Joe Doe

@@ -1,16 +1,16 @@
-2022-06-05 11:40:22,115:ERROR:Tried to divide by zero
-2022-06-05 11:41:01,141:ERROR:Tried to divide by zero
+2022-06-05 17:35:28,554::__main__:ERROR:Tried to divide by zero
+2022-06-05 17:36:21,641::__main__:ERROR:Tried to divide by zero
 Traceback (most recent call last):
-  File "basic_logging.py", line 73, in divide
+  File "log_sample.py", line 39, in divide
     result = x / y
 ZeroDivisionError: division by zero
-2022-06-05 11:42:36,499:ERROR:Tried to divide by zero
+2022-06-05 17:37:50,883::__main__:ERROR:Tried to divide by zero
 Traceback (most recent call last):
-  File "basic_logging.py", line 76, in divide
+  File "log_sample.py", line 41, in divide
     result = x / y
 ZeroDivisionError: division by zero
-2022-06-05 11:43:23,985:ERROR:Tried to divide by zero
+2022-06-05 17:38:37,807::__main__:ERROR:Tried to divide by zero
 Traceback (most recent call last):
-  File "basic_logging.py", line 77, in divide
+  File "log_sample.py", line 42, in divide
     result = x / y
 ZeroDivisionError: division by zero
